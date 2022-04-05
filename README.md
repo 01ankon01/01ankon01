@@ -1,4 +1,4 @@
-- 👋 Hi, I’m cybot
+- 👋 Hi, I’m Ankon
 - 👀 I’m interested in coding... Jokes apart 🤪
 - 🌱 I’m currently learning C++, Python, C, Java, Javascript, Flutter (Beginner Levels)
 - 💞️ I’m looking to collaborate on beginners level projects
